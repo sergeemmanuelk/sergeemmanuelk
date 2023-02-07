@@ -3,7 +3,7 @@
 
 <h2>:link: Connect with me</h2>
 <div>
-    [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeemmanuelk/)
+    [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergeemmanuelk/)
 </div>
 
 <h2>:hammer_and_wrench: Languages and Tools</h2>
