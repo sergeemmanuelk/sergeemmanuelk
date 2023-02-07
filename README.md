@@ -1,21 +1,21 @@
 - 👋 Hi, I’m Serge KONAN
 - 🌱 I’m currently learning JAVA and Angular 
 
-## :hammer_and_wrench: Languages and Tools
-![alt text](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg "HTML 5")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg "CSS 3")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg "Bootstrap")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg "JavaScript")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg "Angular")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg "PHP")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg "Laravel")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg "Java")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg "Spring Boot")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg "Git")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg "MySql")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg "Github")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg "Gitlab")
-![alt text](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg "Docker")
+<h2>:hammer_and_wrench: Languages and Tools</h2>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML 5" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS 3" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
 
 <!---- 👀 I’m interested in ...
 
