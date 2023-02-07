@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Serge KONAN
 - 🌱 I’m currently learning JAVA and Angular 
 
-<h2>:link: Connect with me</h2>
+## :link: Connect with me
+
 <div>
     [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergeemmanuelk/)
 </div>
