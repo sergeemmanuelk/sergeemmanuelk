@@ -5,7 +5,7 @@
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergeemmanuelk/)
 
-<h2>:hammer_and_wrench: Languages and Tools</h2>
+## :hammer_and_wrench: Languages and Tools
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML 5" title="HTML 5" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS 3" title="CSS 3" width="40" height="40">&nbsp;
