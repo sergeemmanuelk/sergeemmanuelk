@@ -1,6 +1,11 @@
 - 👋 Hi, I’m Serge KONAN
 - 🌱 I’m currently learning JAVA and Angular 
 
+<h2>:link: Connect with me</h2>
+<div>
+    [![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeemmanuelk/)
+</div>
+
 <h2>:hammer_and_wrench: Languages and Tools</h2>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML 5" title="HTML 5" width="40" height="40">&nbsp;
