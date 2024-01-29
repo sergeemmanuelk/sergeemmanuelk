@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Abidjan, Ivory Coast
-* ❤️  Passionate about DevOps & Cloud
+* ❤️  Passionate about Cyber Security, DevOps & Cloud
 * ⚡  Tech Enthusiast
 * 🤝  I'm open to collaborating on projects
 * ✉️  You can contact me via [email](mailto:serge_em@outlook.fr)
