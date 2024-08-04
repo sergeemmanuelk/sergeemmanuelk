@@ -5,14 +5,14 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Abidjan, Ivory Coast
-* ❤️  Passionate about Cyber Security, DevOps & Cloud
+* ❤️  Passionate about DevOps & Cloud
 * ⚡  Tech Enthusiast
 * 🤝  I'm open to collaborating on projects
 * ✉️  You can contact me via [email](mailto:serge_em@outlook.fr)
 
 ### :link: Connect with me
 
-<p align="left"> <a href="https://www.github.com/sergeemmanuelk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sergeemmanuelk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sergeemmanuelk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/sergeemmanuelk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@sergeemmanuelk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
